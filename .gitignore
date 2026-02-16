@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data (Too large for git)
+data/
+
+# Mac
+.DS_Store
+
+# Virtual Env
+.venv
+env/
+venv/
